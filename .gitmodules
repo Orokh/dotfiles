@@ -1,3 +1,4 @@
 [submodule "nvim/.config/nvim"]
-	path = nvim/.config/nvim
-	url = git@github.com:Orokh/NvChad-config.git
+  path = nvim/.config/nvim
+  url = git@github.com:Orokh/NvChad-config.git
+  branch = v2.0
